@@ -329,6 +329,10 @@ h2{
     transform: translate(0, -40px);
   }
 
+ .audio{
+    transform: translate(0, -40px);
+ }
+
   .mar-top1{
     margin-top: 50px;
   }
