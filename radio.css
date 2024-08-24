@@ -342,3 +342,9 @@ audio{
   }
 
 }
+
+@media (max-width 400px){
+    a{
+        font-size: 2px;
+    }
+}
