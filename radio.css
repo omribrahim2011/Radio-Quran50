@@ -361,7 +361,7 @@ background-color: #968d7c;
 }
 
 h2{
-  font-size: 45px;
+  font-size: 50px;
   text-align: center;
   transition: 0.5s;
   transform: translate(0, 10px);
@@ -388,16 +388,8 @@ h2{
     flex-direction: column;
   }
 
-  nav{
-    width: 100%;
-    height: auto;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-
-  nav a{
-    padding: 10px 15px;
-    margin: -5px;
+  h2{
+      font-size:40px;
   }
 
   .card{
