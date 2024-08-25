@@ -417,3 +417,9 @@ h2{
   }
 
 }
+
+@media (max-width:350px){
+    h2{
+        fomt-size:30px;
+    }
+}
